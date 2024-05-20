@@ -9,7 +9,6 @@ On my website, you can find more about me: <br>
 👉 <a href="https://franciscobuchini.vercel.app/" target="_blank">My site</a> 👈 <br>
 <br>
 <h2> ☑️ Skills </h2> <br>
-<br>
 🔸 Languages: HTML, CSS, JavaScript. <br>
 🔸 Frameworks and Libraries: React, SASS, Bootstrap, Tailwind, Redux. <br>
 🔸 Design Tools: Figma, Adobe XD, Sketch, Illustrator, Photoshop. <br>
@@ -17,7 +16,6 @@ On my website, you can find more about me: <br>
 🔸 Cloud Hosting: Hostinger, Vercel, Netlify. <br>
 <br>
 <h2> 🤙 Contact </h2> <br>
-<br>
 🔸 Email: franciscobuchini@gmail.com <br>
 🔸 LinkedIn: <a href="https://www.linkedin.com/in/franciscobuchini/" target="_blank">Francisco Buchini</a> <br>
 🔸 Instagram: <a href="https://www.instagram.com/franciscobuchini/" target="_blank">@franciscobuchini</a> <br> 
