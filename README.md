@@ -10,13 +10,14 @@ On my website, you can find more about me: <br>
 <br>
 <h2> ☑️ Skills </h2> <br>
 🔸 Languages: HTML, CSS, JavaScript. <br>
-🔸 Frameworks and Libraries: React, SASS, Bootstrap, Tailwind, Redux. <br>
-🔸 Design Tools: Figma, Adobe XD, Sketch, Illustrator, Photoshop. <br>
-🔸 Version Control: Git, GitHub. <br>
+🔸 Frameworks and Libraries: React, Vue, SASS, Bootstrap, Tailwind, Redux, Pico . <br>
+🔸 Design Tools: Figma, Adobe XD, Illustrator, Photoshop. <br>
+🔸 Version Control: Git, GitHub, Gitlab. <br>
 🔸 Cloud Hosting: Hostinger, Vercel, Netlify. <br>
 <br>
 <h2> 🤙 Contact </h2> <br>
 🔸 Email: franciscobuchini@gmail.com <br>
+🔸 Gitlab: <a href="https://gitlab.com/franciscobuchini" target="_blank">/franciscobuchini</a> <br> 
 🔸 LinkedIn: <a href="https://www.linkedin.com/in/franciscobuchini/" target="_blank">Francisco Buchini</a> <br>
 🔸 Instagram: <a href="https://www.instagram.com/franciscobuchini/" target="_blank">@franciscobuchini</a> <br> 
 <br>
