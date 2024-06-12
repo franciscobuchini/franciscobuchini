@@ -15,7 +15,7 @@ On my website, you can find more about me: <br>
 🔸 Version Control: Git, GitHub, Gitlab. <br>
 🔸 Cloud Hosting: Hostinger, Vercel, Netlify. <br>
 <br>
-<h2> 🤙 Contact </h2> <br>
+<h2> 🤙 Profile </h2> <br>
 🔸 Email: franciscobuchini@gmail.com <br>
 🔸 Gitlab: <a href="https://gitlab.com/franciscobuchini" target="_blank">/franciscobuchini</a> <br> 
 🔸 LinkedIn: <a href="https://www.linkedin.com/in/franciscobuchini/" target="_blank">Francisco Buchini</a> <br>
