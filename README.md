@@ -3,7 +3,7 @@ a nomad frontend developer and web designer from Argentina. Right now, I'm apply
 <br> <br>
 I am a passionate programmer with a diverse background. I began my journey in the world of graphic design, later exploring the fascinating field of UX/UI. For two years, I immersed myself in web programming, fusing my solid foundation in design with technical skills to create memorable and functional digital experiences. <br>
 <br>
-- 🌱 I’m currently working on <a href="https://www.shula.app/" target="_blank">Shula</a> and <a href="https://blokky.app/" target="_blank">Blokky</a> <br>
+- 🌱 I’m currently working on <a href="https://www.shula.app/" target="_blank">Shula</a>, <a href="https://blokky.app/" target="_blank">Blokky</a> and <a href="https://rocketfin.vercel.app/" target="_blank">Rocketfin</a><br>
 <br>
 On my website, you can find more about me: <br>
 👉 <a href="https://franciscobuchini.vercel.app/" target="_blank">My site</a> 👈 <br>
