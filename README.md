@@ -1,5 +1,5 @@
 <h1> 👋 Hi there! I'm Francisco, </h1> <br>
-a nomad frontend developer and web designer from Argentina. Right now, I'm applying my strong experience in UX/UI to develop and bring to life projects with ReactJS, having fun creating components. 
+I'm a nomad frontend developer and web designer from Argentina. Right now, I'm applying my strong experience in UX/UI to develop and bring to life projects with ReactJS, having fun creating components. 
 <br> <br>
 I am a passionate programmer with a diverse background. I began my journey in the world of graphic design, later exploring the fascinating field of UX/UI. For two years, I immersed myself in web programming, fusing my solid foundation in design with technical skills to create memorable and functional digital experiences. <br>
 <br>
