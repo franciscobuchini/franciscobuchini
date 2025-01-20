@@ -10,7 +10,7 @@ On my website, you can find more about me: <br>
 <br>
 <h2> ☑️ Skills </h2> <br>
 🔸 Languages: HTML, CSS, JavaScript, TypeScript. <br>
-🔸 Frameworks and Libraries: React, Vue, SASS, Bootstrap, Tailwind, Redux, Pico . <br>
+🔸 Frameworks and Libraries: React, Vue, Express, SASS, Bootstrap, Tailwind, Redux, Pico . <br>
 🔸 Design Tools: Figma, Adobe XD, Illustrator, Photoshop. <br>
 🔸 Version Control: Git, GitHub, Gitlab. <br>
 🔸 Cloud Hosting: Hostinger, Vercel, Netlify. <br>
